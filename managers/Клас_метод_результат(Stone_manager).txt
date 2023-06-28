@@ -82,3 +82,93 @@ arg=Name: Lab's Diamond, Color: White, Lab Name: ABC Lab, Weight (grams): 3.2, P
 wrapper:
 arg=<__main__.StoneManager object at 0x100e77c90>
 arg=Name: Lab's Ruby, Color: Red, Lab Name: XYZ Lab, Weight (grams): 2.1, Price per Gram: 1200
+wrapper:
+arg=<__main__.StoneManager object at 0x10039bc90>
+arg=Name: Peat, Color: Brown, Weight_grams: 20, Cost: 10, Price per gram: 600
+wrapper:
+arg=<__main__.StoneManager object at 0x10039bc90>
+arg=Name: Rock salt, Color: colorless, Weight_grams: 10, Cost: 5, Price per gram: 1
+wrapper:
+arg=<__main__.StoneManager object at 0x10039bc90>
+arg=Name: Diamond, Color: White, Carat: 2.5, Clarity: 5, Price per Carat: 1000
+wrapper:
+arg=<__main__.StoneManager object at 0x10039bc90>
+arg=Name: Ruby, Color: Red, Carat: 1.8, Clarity: 6, Price per Carat: 800
+wrapper:
+arg=<__main__.StoneManager object at 0x10039bc90>
+arg=Name: Lab's Diamond, Color: White, Lab Name: ABC Lab, Weight (grams): 3.2, Price per Gram: 1500
+wrapper:
+arg=<__main__.StoneManager object at 0x10039bc90>
+arg=Name: Lab's Ruby, Color: Red, Lab Name: XYZ Lab, Weight (grams): 2.1, Price per Gram: 1200
+wrapper:
+arg=<__main__.StoneManager object at 0x102783c90>
+arg=Name: Peat, Color: Brown, Weight_grams: 20, Cost: 10, Price per gram: 600
+wrapper:
+arg=<__main__.StoneManager object at 0x102783c90>
+arg=Name: Rock salt, Color: colorless, Weight_grams: 10, Cost: 5, Price per gram: 1
+wrapper:
+arg=<__main__.StoneManager object at 0x102783c90>
+arg=Name: Diamond, Color: White, Carat: 2.5, Clarity: 5, Price per Carat: 1000
+wrapper:
+arg=<__main__.StoneManager object at 0x102783c90>
+arg=Name: Ruby, Color: Red, Carat: 1.8, Clarity: 6, Price per Carat: 800
+wrapper:
+arg=<__main__.StoneManager object at 0x102783c90>
+arg=Name: Lab's Diamond, Color: White, Lab Name: ABC Lab, Weight (grams): 3.2, Price per Gram: 1500
+wrapper:
+arg=<__main__.StoneManager object at 0x102783c90>
+arg=Name: Lab's Ruby, Color: Red, Lab Name: XYZ Lab, Weight (grams): 2.1, Price per Gram: 1200
+wrapper:
+arg=<__main__.StoneManager object at 0x10071bc90>
+arg=Name: Peat, Color: Brown, Weight_grams: 20, Cost: 10, Price per gram: 600
+wrapper:
+arg=<__main__.StoneManager object at 0x10071bc90>
+arg=Name: Rock salt, Color: colorless, Weight_grams: 10, Cost: 5, Price per gram: 1
+wrapper:
+arg=<__main__.StoneManager object at 0x10071bc90>
+arg=Name: Diamond, Color: White, Carat: 2.5, Clarity: 5, Price per Carat: 1000
+wrapper:
+arg=<__main__.StoneManager object at 0x10071bc90>
+arg=Name: Ruby, Color: Red, Carat: 1.8, Clarity: 6, Price per Carat: 800
+wrapper:
+arg=<__main__.StoneManager object at 0x10071bc90>
+arg=Name: Lab's Diamond, Color: White, Lab Name: ABC Lab, Weight (grams): 3.2, Price per Gram: 1500
+wrapper:
+arg=<__main__.StoneManager object at 0x10071bc90>
+arg=Name: Lab's Ruby, Color: Red, Lab Name: XYZ Lab, Weight (grams): 2.1, Price per Gram: 1200
+wrapper:
+arg=<__main__.StoneManager object at 0x100923c90>
+arg=Name: Peat, Color: Brown, Weight_grams: 20, Cost: 10, Price per gram: 600
+wrapper:
+arg=<__main__.StoneManager object at 0x100923c90>
+arg=Name: Rock salt, Color: colorless, Weight_grams: 10, Cost: 5, Price per gram: 1
+wrapper:
+arg=<__main__.StoneManager object at 0x100923c90>
+arg=Name: Diamond, Color: White, Carat: 2.5, Clarity: 5, Price per Carat: 1000
+wrapper:
+arg=<__main__.StoneManager object at 0x100923c90>
+arg=Name: Ruby, Color: Red, Carat: 1.8, Clarity: 6, Price per Carat: 800
+wrapper:
+arg=<__main__.StoneManager object at 0x100923c90>
+arg=Name: Lab's Diamond, Color: White, Lab Name: ABC Lab, Weight (grams): 3.2, Price per Gram: 1500
+wrapper:
+arg=<__main__.StoneManager object at 0x100923c90>
+arg=Name: Lab's Ruby, Color: Red, Lab Name: XYZ Lab, Weight (grams): 2.1, Price per Gram: 1200
+wrapper:
+arg=<__main__.StoneManager object at 0x100943c90>
+arg=Name: Peat, Color: Brown, Weight_grams: 20, Cost: 10, Price per gram: 600
+wrapper:
+arg=<__main__.StoneManager object at 0x100943c90>
+arg=Name: Rock salt, Color: colorless, Weight_grams: 10, Cost: 5, Price per gram: 1
+wrapper:
+arg=<__main__.StoneManager object at 0x100943c90>
+arg=Name: Diamond, Color: White, Carat: 2.5, Clarity: 5, Price per Carat: 1000
+wrapper:
+arg=<__main__.StoneManager object at 0x100943c90>
+arg=Name: Ruby, Color: Red, Carat: 1.8, Clarity: 6, Price per Carat: 800
+wrapper:
+arg=<__main__.StoneManager object at 0x100943c90>
+arg=Name: Lab's Diamond, Color: White, Lab Name: ABC Lab, Weight (grams): 3.2, Price per Gram: 1500
+wrapper:
+arg=<__main__.StoneManager object at 0x100943c90>
+arg=Name: Lab's Ruby, Color: Red, Lab Name: XYZ Lab, Weight (grams): 2.1, Price per Gram: 1200
