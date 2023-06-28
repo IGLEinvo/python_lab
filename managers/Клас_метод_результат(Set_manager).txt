@@ -1,0 +1,15 @@
+__init__:
+arg=<__main__.SetManager object at 0x103092b10>
+arg=<managers.stone_manager.StoneManager object at 0x102f77e90>
+generate_attributes:
+arg=<__main__.SetManager object at 0x103092b10>
+__init__:
+arg=<__main__.SetManager object at 0x100744d50>
+arg=<managers.stone_manager.StoneManager object at 0x100727e90>
+generate_attributes:
+arg=<__main__.SetManager object at 0x100744d50>
+__init__:
+arg=<__main__.SetManager object at 0x1021f0d50>
+arg=<managers.stone_manager.StoneManager object at 0x1021d3e90>
+generate_attributes:
+arg=<__main__.SetManager object at 0x1021f0d50>
